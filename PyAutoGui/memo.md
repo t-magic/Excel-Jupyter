@@ -53,6 +53,22 @@
 
 
 
+# PyAutoGui
+
+1. conda install -c conda-forge pyautogui
+
+   ```
+   conda install -c conda-forge pyautogui
+   ```
+
+
+
+# PyCharm
+
+
+
+
+
 # Tesseractのインストール
 
 * [Tesseract OCR をWindowsにインストールする方法 | ガンマソフト株式会社](https://gammasoft.jp/blog/tesseract-ocr-install-on-windows/)
