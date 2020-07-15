@@ -59,6 +59,7 @@
 
    ```
    conda install -c conda-forge pyautogui
+   conda install -c conda-forge opencv
    ```
 
 

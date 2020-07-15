@@ -72,6 +72,8 @@ def read_a_page(filepath, prev_text_line, cont_thres_len, last_pagep, tracep = F
         if len(output_text) > 0 and output_text[-1] == "。":
             output_text_list.append(output_text)
             output_text = ""
+            text_line = ""
+            text_len = 0
 
 
         if tracep:
